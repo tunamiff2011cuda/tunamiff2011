@@ -1,9 +1,10 @@
-# tunamiff2011
-Numerical Codes of Tsunami Simulation based on IUGG/IOC Time Project, IOC. Manuals and guides 35
+# TUNAMI FF - CUDA Version 2011 May 21 (tunamiff20110521)
+Numerical Codes of Tsunami Simulation (CUDA-GPU) based on IUGG/IOC Time Project, IOC. Manuals and guides 35
 
 The Project intially started in the year 2011 and hosted in following URLS:
 
 URL1 (Description) : https://tunamicode.wordpress.com/
+
 URL2 (Source Code) : https://mega.nz/#F!oqhVVA4a!VPdVav4bQQVsJTuYbMIOFw
 
 Numerical simulations of Far-filed tsunamis:
