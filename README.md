@@ -7,6 +7,10 @@ URL1 (Description) : https://tunamicode.wordpress.com/
 
 URL2 (Source Code) : https://mega.nz/#F!oqhVVA4a!VPdVav4bQQVsJTuYbMIOFw
 
+URL3 (Project): https://code.google.com/archive/p/tunami/
+
+URL4 (FOSS): https://code.google.com/archive/p/tsunami-opensource/
+
 Numerical simulations of Far-filed tsunamis:
 
 Tohoku University’s Numerical Analysis Model for Investigation of Far-field Tsunamis – TUNAMI FF
