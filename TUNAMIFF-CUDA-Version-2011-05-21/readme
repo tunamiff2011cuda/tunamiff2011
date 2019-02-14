@@ -1,0 +1,10 @@
+source /opt/intel/Compiler/11.1/056/bin/c++vars.sh intel64
+c++ -I ./ -c TFFcalutilsub.cpp
+c++ -I ./ -c GRDUTIL.cpp
+c++ -I ./ -c MASSGBOUNDMOMENT.cpp
+nvcc -ccbin c++ -I ./ -c GPUGNODEBOUNCK.cu 
+nvcc -ccbin c++ -I ./ -c TUNAMI_FFGpu.cu
+
+
+nvcc -Xcompiler -fopenmp -lgomp -ccbin c++ -o TUNAMI_FF TFFcalutilsub.o GRDUTIL.o MASSGBOUNDMOMENT.o GPUGNODEBOUNCK.o TUNAMI_FFGpu.o
+
