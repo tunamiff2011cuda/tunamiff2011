@@ -465,4 +465,5 @@ Time step                                                                       
 
 Time step index                                                                                             KT
 
-
+Disclaimer
+This software is experimental and is released without any warranty. The author takes no responsibility for any damage to property, health or life caused by this software. 
