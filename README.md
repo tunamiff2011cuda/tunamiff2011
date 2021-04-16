@@ -3,6 +3,8 @@ Numerical Codes of Tsunami Simulation (CUDA-GPU) based on IUGG/IOC Time Project,
 
 The Project intially started in the year 2011 and hosted in following URLS:
 
+URL: https://github.com/tunamiff2011cuda/tunamiff2011
+
 URL: https://sourceforge.net/projects/tunamiff2011/
 
 URL1 (Description) : https://tunamicode.wordpress.com/
