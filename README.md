@@ -15,6 +15,8 @@ URL4 (FOSS): https://code.google.com/archive/p/tsunami-opensource/
 
 URL5 (ORIGINAL): TUNAMI Modelling Manual 2006 Version : http://tunamin2.ce.metu.edu.tr/ 
 
+Everybody-wiki: https://en.everybodywiki.com/TUNAMI_FF_-_CUDA_Version_2011
+
 Numerical simulations of Far-filed tsunamis:
 
 Tohoku University’s Numerical Analysis Model for Investigation of Far-field Tsunamis – TUNAMI FF
