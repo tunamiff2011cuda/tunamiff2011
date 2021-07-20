@@ -243,7 +243,7 @@ zoutAT
   CNode& Node = *gNode;
 
   // sea floor topography (mass conservation)
-  #pragma omp parallel for default(shared) private(i,j,m,absH)
+  #pragma omp parallel for default(shared) private(i,j,nod,absH)
   for( i=Imin; i<=Imax; i++ ) {
     for( j=Jmin; j<=Jmax; j++ ) {
 
@@ -312,7 +312,7 @@ zoutAT
 
   // moment conservation
   // longitudial flux update
-  #pragma omp parallel for default(shared) private(i,j,m,v1,v2)
+  #pragma omp parallel for default(shared) private(i,j,nod,v1,v2)
   for( i=Imin; i<=Imax; i++ ) {
     for( j=Jmin; j<=Jmax; j++ ) {
 
@@ -346,7 +346,7 @@ zoutAT
   }
 
   // lattitudial flux update
-  #pragma omp parallel for default(shared) private(i,j,m,v1,v2)
+  #pragma omp parallel for default(shared) private(i,j,nod,v1,v2)
   for( i=Imin; i<=Imax; i++ ) {
     for( j=Jmin; j<=Jmax; j++ ) {
 
